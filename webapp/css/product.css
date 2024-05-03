@@ -1,0 +1,11 @@
+.child-container {
+    padding: 20px;
+    width: 20%;
+}
+
+.child2-container {
+    width: 80%;
+    float: right;
+    padding: 20px;
+}
+
