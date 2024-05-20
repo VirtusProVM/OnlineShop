@@ -113,7 +113,7 @@
                 
                 <div align="center">
                     
-                    <h2 class="pageHeading">Ordered books </h2>
+                    <h2 class="pageHeading">Ordered products </h2>
                     
                     <table border="1">
                         
